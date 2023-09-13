@@ -27,3 +27,10 @@
 ![результат гит](gitres.png)
 
 ![результат питон](pyres.png)
+
+## Список использованных источников
+
+1. [CS50W - Lecture 1 - Git](https://www.youtube.com/watch?v=NcoBAfJ6l2Q)
+2. [report_demo](https://github.com/still-coding/report_demo)
+3. [Язык разметки Markdown](https://doka.guide/tools/markdown/)
+4. [сама лаба](https://evil-teacher.on.fleek.co/prog_pm/lab00/)
