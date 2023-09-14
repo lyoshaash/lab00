@@ -20,7 +20,7 @@
 
 ![результат c](2cres.png)
 
-![блок схема](block scheme.png)
+![блок схема](block_scheme.png)
 ## Список использованных источников
 
 [сайт где делал схему](https://www.smartdraw.com/block-diagram/block-diagram-maker.htm)
