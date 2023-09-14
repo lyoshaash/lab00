@@ -18,8 +18,15 @@
 
 ## Скриншоты
 
+![результат c](2cres.png)
+
+![блок схема](blockscheme.png)
+
 ## Список использованных источников
 
+[сайт где делал схему](https://www.smartdraw.com/block-diagram/block-diagram-maker.htm)
+
+[сама лаба](https://evil-teacher.on.fleek.co/prog_pm/lab01/)
 
 
 # lab00
