@@ -1,4 +1,4 @@
-# lab01 
+# lab04  
 
 ## Задание
 
@@ -12,10 +12,8 @@
 
 ## Скриншоты
 
-![результат c](2cres.png)
-
-![блок схема](blockscheme.png)
+![результат 10](lab04ss.png)
 
 ## Список использованных источников
 
-[лаба](https://evil-teacher.on.fleek.co/prog_pm/lab01/)
+[лаба](https://evil-teacher.on.fleek.co/prog_pm/lab04/)
