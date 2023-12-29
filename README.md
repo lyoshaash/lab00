@@ -20,6 +20,9 @@
 ![результат пи](pyscreen.png)
 
 ![graphik](graph.png)
+![graphik1](grafik1.png)
+![graphik2](grafik2.png)
+![graphik3](grafik3.png)
 
 ## Список использованных источников
 
